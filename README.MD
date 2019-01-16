@@ -7,4 +7,5 @@ cd harborunittest
 ./cleanut.sh
 
 cd <path/to/harbor/src>
+
 go test ./src/common/core/api/... -v
